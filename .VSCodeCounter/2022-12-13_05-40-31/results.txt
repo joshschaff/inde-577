@@ -1,0 +1,83 @@
+Date : 2022-12-13 05:40:31
+Directory : /home/josh/inde577/schaffer_inde_577
+Total : 34 files,  15276 codes, 0 comments, 236 blanks, all 15512 lines
+
+Languages
++----------------------+------------+------------+------------+------------+------------+
+| language             | files      | code       | comment    | blank      | total      |
++----------------------+------------+------------+------------+------------+------------+
+| JSON                 |         22 |     12,538 |          0 |         22 |     12,560 |
+| CSV                  |          1 |      2,497 |          0 |          1 |      2,498 |
+| source.markdown.math |         11 |        241 |          0 |        213 |        454 |
++----------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                            |         34 |     15,276 |          0 |        236 |     15,512 |
+| data                                                                                                                                                         |          1 |      2,497 |          0 |          1 |      2,498 |
+| supervised_learning                                                                                                                                          |         27 |     11,731 |          0 |        180 |     11,911 |
+| supervised_learning/0_linear_regression                                                                                                                      |          2 |        354 |          0 |         24 |        378 |
+| supervised_learning/1_gradient_descent                                                                                                                       |          3 |        945 |          0 |         23 |        968 |
+| supervised_learning/1_gradient_descent/.ipynb_checkpoints                                                                                                    |          1 |        414 |          0 |          1 |        415 |
+| supervised_learning/2_logistic_regression                                                                                                                    |          3 |      1,256 |          0 |         22 |      1,278 |
+| supervised_learning/2_logistic_regression/.ipynb_checkpoints                                                                                                 |          1 |        699 |          0 |          1 |        700 |
+| supervised_learning/3_neural_nets                                                                                                                            |          3 |        964 |          0 |         12 |        976 |
+| supervised_learning/3_neural_nets/.ipynb_checkpoints                                                                                                         |          1 |        474 |          0 |          1 |        475 |
+| supervised_learning/4_support_vector_machines                                                                                                                |          3 |      3,558 |          0 |         45 |      3,603 |
+| supervised_learning/4_support_vector_machines/.ipynb_checkpoints                                                                                             |          1 |      1,395 |          0 |          1 |      1,396 |
+| supervised_learning/5_k_nearest_neighbors                                                                                                                    |          3 |        541 |          0 |         10 |        551 |
+| supervised_learning/5_k_nearest_neighbors/.ipynb_checkpoints                                                                                                 |          1 |        240 |          0 |          1 |        241 |
+| supervised_learning/6_decision_trees                                                                                                                         |          4 |      2,115 |          0 |         23 |      2,138 |
+| supervised_learning/6_decision_trees/.ipynb_checkpoints                                                                                                      |          2 |      1,259 |          0 |          2 |      1,261 |
+| supervised_learning/7_ensemble_learning                                                                                                                      |          4 |        901 |          0 |         19 |        920 |
+| supervised_learning/7_ensemble_learning/.ipynb_checkpoints                                                                                                   |          2 |        441 |          0 |          2 |        443 |
+| supervised_learning/decision_tree                                                                                                                            |          2 |      1,097 |          0 |          2 |      1,099 |
+| supervised_learning/decision_tree/.ipynb_checkpoints                                                                                                         |          1 |        542 |          0 |          1 |        543 |
+| unsupervised_learning                                                                                                                                        |          5 |      1,023 |          0 |         36 |      1,059 |
+| unsupervised_learning/0_k_means_clustering                                                                                                                   |          2 |        391 |          0 |         10 |        401 |
+| unsupervised_learning/1_principle_component_analysis                                                                                                         |          3 |        632 |          0 |         26 |        658 |
+| unsupervised_learning/1_principle_component_analysis/.ipynb_checkpoints                                                                                      |          1 |        371 |          0 |          1 |        372 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+------------+------------+------------+------------+
+| filename                                                                                                                                                     | language             | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+------------+------------+------------+------------+
+| /home/josh/inde577/schaffer_inde_577/README.md                                                                                                               | source.markdown.math |         25 |          0 |         19 |         44 |
+| /home/josh/inde577/schaffer_inde_577/data/rb_tx_data.csv                                                                                                     | CSV                  |      2,497 |          0 |          1 |      2,498 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/0_linear_regression/0_linear_regression.ipynb                                                       | JSON                 |        327 |          0 |          1 |        328 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/0_linear_regression/README.md                                                                       | source.markdown.math |         27 |          0 |         23 |         50 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/1_gradient_descent/.ipynb_checkpoints/1_gradient_descent-checkpoint.ipynb                           | JSON                 |        414 |          0 |          1 |        415 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/1_gradient_descent/1_gradient_descent.ipynb                                                         | JSON                 |        510 |          0 |          1 |        511 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/1_gradient_descent/README.md                                                                        | source.markdown.math |         21 |          0 |         21 |         42 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/2_logistic_regression/.ipynb_checkpoints/2_logistic_regression-checkpoint.ipynb                     | JSON                 |        699 |          0 |          1 |        700 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/2_logistic_regression/2_logistic_regression.ipynb                                                   | JSON                 |        532 |          0 |          1 |        533 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/2_logistic_regression/README.md                                                                     | source.markdown.math |         25 |          0 |         20 |         45 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/3_neural_nets/.ipynb_checkpoints/3_neural_nets-checkpoint.ipynb                                     | JSON                 |        474 |          0 |          1 |        475 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/3_neural_nets/3_neural_nets.ipynb                                                                   | JSON                 |        473 |          0 |          1 |        474 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/3_neural_nets/README.md                                                                             | source.markdown.math |         17 |          0 |         10 |         27 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/4_support_vector_machines/.ipynb_checkpoints/4_support_vector_machines-checkpoint.ipynb             | JSON                 |      1,395 |          0 |          1 |      1,396 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/4_support_vector_machines/4_support_vector_machines.ipynb                                           | JSON                 |      2,118 |          0 |          1 |      2,119 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/4_support_vector_machines/README.md                                                                 | source.markdown.math |         45 |          0 |         43 |         88 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/5_k_nearest_neighbors/.ipynb_checkpoints/0_k_nearest_neighbors-checkpoint.ipynb                     | JSON                 |        240 |          0 |          1 |        241 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/5_k_nearest_neighbors/5_k_nearest_neighbors.ipynb                                                   | JSON                 |        293 |          0 |          1 |        294 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/5_k_nearest_neighbors/README.md                                                                     | source.markdown.math |          8 |          0 |          8 |         16 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/6_decision_trees/.ipynb_checkpoints/6_decision_trees-checkpoint.ipynb                               | JSON                 |        970 |          0 |          1 |        971 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/6_decision_trees/.ipynb_checkpoints/Untitled-checkpoint.ipynb                                       | JSON                 |        289 |          0 |          1 |        290 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/6_decision_trees/6_decision_trees.ipynb                                                             | JSON                 |        829 |          0 |          1 |        830 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/6_decision_trees/README.md                                                                          | source.markdown.math |         27 |          0 |         20 |         47 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/7_ensemble_learning/.ipynb_checkpoints/7_ensemble_learning-checkpoint.ipynb                         | JSON                 |        435 |          0 |          1 |        436 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/7_ensemble_learning/.ipynb_checkpoints/Untitled-checkpoint.ipynb                                    | JSON                 |          6 |          0 |          1 |          7 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/7_ensemble_learning/7_ensemble_learning.ipynb                                                       | JSON                 |        441 |          0 |          1 |        442 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/7_ensemble_learning/README.md                                                                       | source.markdown.math |         19 |          0 |         16 |         35 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/decision_tree/.ipynb_checkpoints/make_moons-checkpoint.ipynb                                        | JSON                 |        542 |          0 |          1 |        543 |
+| /home/josh/inde577/schaffer_inde_577/supervised_learning/decision_tree/make_moons.ipynb                                                                      | JSON                 |        555 |          0 |          1 |        556 |
+| /home/josh/inde577/schaffer_inde_577/unsupervised_learning/0_k_means_clustering/0_k_means_clustering.ipynb                                                   | JSON                 |        384 |          0 |          1 |        385 |
+| /home/josh/inde577/schaffer_inde_577/unsupervised_learning/0_k_means_clustering/README.md                                                                    | source.markdown.math |          7 |          0 |          9 |         16 |
+| /home/josh/inde577/schaffer_inde_577/unsupervised_learning/1_principle_component_analysis/.ipynb_checkpoints/1_principal_component_analysis-checkpoint.ipynb | JSON                 |        371 |          0 |          1 |        372 |
+| /home/josh/inde577/schaffer_inde_577/unsupervised_learning/1_principle_component_analysis/1_principal_component_analysis.ipynb                               | JSON                 |        241 |          0 |          1 |        242 |
+| /home/josh/inde577/schaffer_inde_577/unsupervised_learning/1_principle_component_analysis/README.md                                                          | source.markdown.math |         20 |          0 |         24 |         44 |
+| Total                                                                                                                                                        |                      |     15,276 |          0 |        236 |     15,512 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+------------+------------+------------+------------+
